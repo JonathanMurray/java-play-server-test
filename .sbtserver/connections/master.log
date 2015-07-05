@@ -1,0 +1,19 @@
+New log file opened at Sun Jul 05 21:20:56 CEST 2015 by 9334@jonathans-laptop
+Taking next connection to: 36635
+New client attempting to connect on port: 52192-36635
+  Address = /127.0.1.1:36635
+This client on port 52192 has uuid 9d118f81-c9d2-40f1-aa39-7232cc202018 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-9d118f81-c9d2-40f1-aa39-7232cc202018
+Taking next connection to: 36635
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 36635
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 36635
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 36635
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 36635
